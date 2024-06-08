@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "554735249657",
+    "project_id": "mpfinalsehir-furkany",
+    "storage_bucket": "mpfinalsehir-furkany.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554735249657:android:aa8ffac8da8ee409e21a28",
+        "android_client_info": {
+          "package_name": "com.furkany.mysehir1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554735249657-6spns1vakrfr6vsscaracitv4c2f6uol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6lGBsxb5Y5JyszOlYVDKX9jPhTdHQFno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554735249657-6spns1vakrfr6vsscaracitv4c2f6uol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
